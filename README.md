@@ -1,1 +1,1 @@
-Esta es una prueba para trabajos colaborativos 
+En esta prueba en trabajo colaborativo se trabajara con un hola mundo el cual llevara 2 codigos, uno orientado a objetos con tkinter e interfaz grafica ,uno de programacion estructurada y un psedeucodigo tambien se le agregara un diagrama de clases para la programacion orientada a objetos  
